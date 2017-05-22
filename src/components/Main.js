@@ -26,7 +26,7 @@ class AppComponent extends React.Component {
       <MuiThemeProvider muiTheme={Theme.light()} className="index">
         <div>
           <AppBar
-            title="Waes amazing Todo"
+            title="React amazing Todo"
             iconElementLeft={<FlatButton onTouchTap={this.handleOpen}><Menu color="white" /></FlatButton>} />
           <Drawer
             open={this.state.open}
