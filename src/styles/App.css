@@ -1,0 +1,12 @@
+/* Base Application Styles */
+.content {
+  padding: 30px 30px 30px 30px;
+}
+
+.list {
+  width: 30%;
+}
+
+.task {
+  width: 60%
+}
